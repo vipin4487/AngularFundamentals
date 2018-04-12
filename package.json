@@ -1,0 +1,19 @@
+{
+  "name": "angularfunda",
+  "version": "1.0.0",
+  "description": "first package to github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipin4487/AngularFundamentals.git"
+  },
+  "author": "vipin bhardwaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vipin4487/AngularFundamentals/issues"
+  },
+  "homepage": "https://github.com/vipin4487/AngularFundamentals#readme"
+}
